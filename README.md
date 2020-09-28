@@ -17,3 +17,9 @@ Hi, I'm Jéssica Lemos, a software developer from Portugal.
 [discord]: https://discord.gg/
 [linkedin]: https://www.linkedin.com/in/jessicalemos9
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalemos&layout=compact&hide_border=1" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicalemos&count_private=true&show_icons=true&hide=issues&hide_border=1" />
+</a>
