@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm [Jéssica](https://jessicalemos.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**jessicalemos/jessicalemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="Jessica Lemos Site" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />][facebook]
+[<img align="left" alt="Jessica Lemos discord" width="22px" src="https://img.icons8.com/cute-clipart/2x/discord-logo.png" />][discord]
+[<img align="left" alt="Jessica Lemos linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="Jessica Lemos gmail" width="22px" src="https://img.icons8.com/color/2x/gmail-login.png" />][gmail]</span>
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Jéssica Lemos, a software developer from Portugal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on my thesis
+- 🌱 I'm finishing my master's degree in Software Engineering
+- ⚡ I'm currently working as a freelancer
+
+[gmail]: mailto:jessica.andreia96@gmail.com
+[facebook]: https://www.facebook.com/jessica.andreia.3910
+[discord]: https://discord.gg/
+[linkedin]: https://www.linkedin.com/in/jessicalemos9
+
