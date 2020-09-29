@@ -10,9 +10,10 @@
   <img align="left" alt="Jéssica LinkedIn" width="20px" src="https://raw.githubusercontent.com/jessicalemos/jessicalemos/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:jessica.andreia96@gmail.com">
-  <img align="left" alt="Jéssica Gmail" width="20px" src="https://raw.githubusercontent.com/jessicalemos/jessicalemos/master/assets/gmail.svg" />
+  <img align="left" alt="Jéssica Gmail" width="21px" src="https://raw.githubusercontent.com/jessicalemos/jessicalemos/master/assets/gmail.svg" />
 </a>
 
+<br />
 <br />
 
 Hi, I'm Jéssica Lemos, a software developer from Portugal.
@@ -20,10 +21,3 @@ Hi, I'm Jéssica Lemos, a software developer from Portugal.
 - 🔭 I'm currently working on my thesis
 - 🌱 I'm finishing my master's degree in Software Engineering
 - ⚡ I'm currently working as a freelancer
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicalemos&layout=compact&hide_border=1" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicalemos&count_private=true&show_icons=true&hide=issues&hide_border=1" />
-</a>
