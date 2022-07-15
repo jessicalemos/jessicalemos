@@ -18,6 +18,6 @@
 
 Hi, I'm Jéssica Lemos, a software developer from Portugal.
 
-- 🔭 I'm currently finishing my thesis
-- 🌱 I'm finishing my master's degree in Software Engineering
-- ⚡ I'm currently working at Talkdesk as a Tech Dojo - Software Engineer
+- 🔭 I'm looking for new challenges
+- 🌱 I have already finished my master's degree in Software Engineering
+- ⚡ I'm currently working at Talkdesk as a Software Engineer - New Learner
