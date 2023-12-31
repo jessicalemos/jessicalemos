@@ -16,8 +16,10 @@
 <br />
 <br />
 
-Hi, I'm Jéssica Lemos, a software developer from Portugal.
+I'm a Software Developer from Portugal!
 
-- 🔭 I'm looking for new challenges
-- 🌱 I have already finished my master's degree in Software Engineering
-- ⚡ I'm currently working at Talkdesk as a Software Engineer - New Learner
+- :cupid: I love programming 
+- :telescope: Always looking to learn more about both **Backend** and **Frontend**
+- :muscle: I have a **Master's degree in Software Engineering** and have been a **Full Stack Developer** for over two years
+- :heartbeat::gem: **Elixir** and **React** enthusiast 
+- :eyes: I'm always looking for good challenges! 
