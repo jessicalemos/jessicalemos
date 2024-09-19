@@ -19,7 +19,6 @@
 I'm a Software Developer from Portugal!
 
 - :cupid: I love programming 
-- :telescope: Always looking to learn more about both **Backend** and **Frontend**
-- :muscle: I have a **Master's degree in Software Engineering** and have been a **Full Stack Developer** for over two years
-- :heartbeat::gem: **Elixir** and **React** enthusiast 
+- :telescope: Always looking to learn more about both **Backend** and **Frontend**, but currently **Backend** has my whole heart 💟
+- :muscle: I have a **Master's degree in Software Engineering** and have been a **Full Stack Developer** for over three years
 - :eyes: I'm always looking for good challenges! 
